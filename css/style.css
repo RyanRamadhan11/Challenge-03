@@ -1,4 +1,4 @@
-  /* Ryan Ramadhan || FSW 6 */
+    /* Ryan Ramadhan || FSW 6 */
 
   body {
       margin: 0;
@@ -184,7 +184,7 @@
       margin-bottom: 30px;
   }
 
-  .card_why_us {
+  .card_why_bawah {
       overflow: hidden;
       margin: 0.5em 6.9em;
       display: flex;
@@ -497,7 +497,7 @@
           text-align: center;
       }
 
-      .card_why_us {
+      .card_why_bawah {
           margin: 0px;
           display: flex;
           flex-direction: column;
